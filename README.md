@@ -2,7 +2,7 @@
 
 This is a Portfolio  (Front-end part only)
 
-### Live website link: https://resplendent-begonia-00f9ed.netlify.app/   
+### Live website link:   https://abhisek2004.github.io/Portfolio_Simple/
 
 
 ## Features
